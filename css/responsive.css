@@ -1,0 +1,1111 @@
+@media (min-width:320px) and (max-width:575px){
+    
+
+
+    /* //header-top part start */
+.header-top .left{
+    text-align: center;
+}
+.header-top .right{
+    text-align: center;
+}
+.header-top{
+    font-size: 16px;
+}
+
+ /* //header-top part end */
+
+ /* //navbar part start */
+ nav{
+    padding: 15px!important;
+ }
+
+nav .navbar-brand {
+    padding: 0 !important;
+}
+.fixed .navbar-brand img{
+    width: 130px;
+}
+nav button i{
+    color: rgb(15, 47, 68);
+   
+}
+nav ul{
+    margin-top: 10px;
+    text-align: center;
+    background: rgba(15, 47, 68, 0.1);
+}
+nav ul .nav-item{
+    padding: 10px 0 !important;
+    margin-right: 0px;
+}
+nav .ul{
+    text-align: center;
+    padding-bottom: 20px;
+}
+nav ul .titu {
+    margin-right: 0px;
+}
+na ul li a{
+    padding: 5px 15px !important;
+}
+nav ul li .active{
+    padding: 5px 15px !important;
+}
+nav ul li a{
+    padding: 5px 15px !important;
+}
+.fixed {
+    padding:10px !important;
+}
+.fixed .navbar-brand {
+    padding:  0 !important;
+}
+.fixed .ul{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.fixed ul .nav-item{
+    padding: 10px 0 !important;
+  
+}
+ /* //navbar part end */
+
+ /* //banner part start */
+ #banner{
+     padding: 45px 0;
+ }
+ #banner h1{
+     font-size: 64px;
+ }
+ #banner .our{
+    font-size: 23px;
+ }
+ #banner .details{
+     width: 305px;
+ }
+ #banner a{
+     margin-top: 25px;
+ }
+ .beta input{
+     width: 100%;
+     font-size: 15px;
+ }
+ .beta .tea{
+     right: 4%;
+ }
+ .beta{
+     top: 62px;
+     height: 400px;
+ }
+ /* //banner part end */
+ /* //about part start*/
+ #banner2{
+     padding: 45px 0;
+ }
+ #banner2 .deta .about-details{
+     width: auto;
+ }
+ #banner2 ul li{
+     margin-left: 0;
+ }
+ #banner2 ul{
+     margin-left: 20px;
+ }
+ #banner2 .deta .who{
+     text-align: center;
+ }
+ #banner2 .deta .about{
+     text-align: center;
+     margin-bottom: 10px;
+ }
+ #banner2 .image img{
+     margin-top: 35px;
+ }
+ /* //about part end */
+
+
+ /* //our skills  part start*/
+
+
+ #our-skills .left{
+     display: none;
+ }
+ #our-skills .good{
+     text-align: center;
+ }
+ #our-skills .good h1{
+     margin-bottom: 13px;
+ }
+ #our-skills .right .better .barfiller{
+     width: auto;
+     margin-right: 10px;
+ }
+ #our-skills .right .better .barfiller p{
+     font-size: 13px;
+ }
+ #our-skills .right .better .barfiller .tip{
+    
+     font-size: 15px;
+ }
+ /* our-skills .right .better{
+     width: auto;
+ } */
+ /* //our skills part end */
+
+ 
+ /* //our service part end */
+ #ourservice{
+     padding-top: 15px;
+ }
+ 
+ .t{
+     margin-top: 20px;
+ }
+ #ourservice .left{
+     margin-left: 0px;
+     margin-right: 0px;
+ }
+
+ /* //our service part end */
+
+ /* //our pricing part end */
+ #pricing{
+     margin-top: 40px;
+     height: auto;
+ }
+ #pricing .price{
+     margin-top: 0;
+   
+ }
+ #pricing .slick-current{
+    transform: scale(.9);
+}
+#pricing .price img{
+    margin-top: 12px;
+}
+#pricing .price p{
+    margin-top: 0px;
+    padding-bottom: 10px;
+}
+#pricing .price ul{
+    margin-top: 12px;
+}
+#pricing .price ul li{
+    margin-bottom: 5px;
+}
+ /* //our pricing part end */
+
+
+ /* //our expert team part end */
+ #expart{
+     margin-top: 25px;
+ }
+ 
+ #expart .member{
+     margin-top: 0;
+     height: 420px;
+ }
+ .w .prev{
+     left: 25px;
+ }
+ .w .next{
+     right: -25px;
+     top: 52%;
+ }
+ 
+ #expart .btnn .browse{
+  margin-top: 20px;
+  margin-bottom: 30px;
+
+}
+
+ /* //our expert team part end */
+
+ /* //our protfolio part end */
+
+ .x .prev{
+    left: 25px;
+}
+.x .next{
+    right: -25px;
+    top: 52%;
+}
+#protfolio .member{
+    margin-top: 0;
+    height: 420px;
+}
+#protfolio .btnn .browse{
+    margin-top: 20px;
+    margin-bottom: 30px;
+  
+  }
+ /* //our protfolio part end */
+
+
+
+ /* //our protfolio part end */
+
+
+ #testimonial .title{
+    padding-top: 30px;
+ }
+ #testimonial .member{
+     position: relative;
+     margin-left: 0px;
+     margin-right: 0px;
+    padding-top: 99px;
+    padding-bottom: 20px;
+    margin-top: 90px;
+ }
+ #testimonial .member .img{
+     height: 150px;
+     width: 150px;
+     position: absolute;
+     top: -25%;
+     left: 50%;
+     transform: translateX(-50%);
+     overflow: hidden;
+     border-radius: 50%;
+     z-index: 99;
+ }
+ #testimonial .member .text p{
+     width: auto;
+ }
+ #testimonial .prev{
+    top: 22%;
+    left: 1%;
+ }
+ #testimonial .next{
+    top: 24%;
+    right: -8px;
+ }
+ /* //our protfolio part end */
+
+
+ /* //our blog part end */
+
+ #blog .member{
+     margin-top: 0;
+ }
+ 
+ .zee .prev{
+     top: 95%;
+     left: 105px;
+ }
+ .zee .next{
+     top: 96%;
+     right: 70px;
+
+ }
+ #blog .btnn .browse{
+    margin-top: 50px;
+    margin-bottom: 30px;
+  
+  }
+ /* //our blog part end */
+
+
+ /* //our fotter part end */
+
+ #footer{
+     margin-top: 60px;
+    
+ }
+
+ #footer .a p{
+     width: auto;
+ }
+#footer .a{
+    padding-left: 15px;
+padding-right: 15px;
+margin-bottom: 50px;
+}
+#footer .b{
+    padding-left: 15px;
+padding-right: 15px;
+}
+#footer .c{
+    padding-left: 15px;
+padding-right: 15px;
+}
+#footer .d{
+    padding-left: 15px;
+padding-right: 15px;
+}
+ /* //our footer part end */
+
+
+
+
+
+
+}
+
+
+@media (min-width:576px) and (max-width:767px){
+    
+
+
+    /* //header-top part start */
+
+.header-top{
+    font-size: 16px;
+}
+
+ /* //header-top part end */
+
+ /* //navbar part start */
+ nav{
+    padding: 15px!important;
+ }
+
+nav .navbar-brand {
+    padding: 0 !important;
+}
+nav ul li .active{
+    padding: 5px 15px !important;
+}
+nav ul li a{
+    padding: 5px 15px !important;
+}
+.fixed .navbar-brand img{
+    width: 130px;
+}
+nav button i{
+    color: rgb(15, 47, 68);
+   
+}
+nav ul{
+    margin-top: 10px;
+    text-align: center;
+    background: rgba(15, 47, 68, 0.1);
+}
+nav ul .nav-item{
+    padding: 10px 0 !important;
+    margin-right: 0px;
+}
+nav .ul{
+    text-align: center;
+    padding-bottom: 20px;
+}
+nav ul .titu {
+    margin-right: 0px;
+}
+.fixed {
+    padding:10px !important;
+}
+.fixed .navbar-brand {
+    padding:  0 !important;
+}
+.fixed .ul{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.fixed ul .nav-item{
+    padding: 10px 0 !important;
+  
+}
+ /* //navbar part end */
+
+ /* //banner part start */
+ #banner{
+     padding: 45px 0;
+ }
+ #banner h1{
+     font-size: 64px;
+ }
+ #banner .our{
+    font-size: 23px;
+ }
+ #banner .details{
+     width: 400px;
+ }
+ #banner a{
+     margin-top: 25px;
+ }
+ .beta input{
+     width: 95%;
+     font-size: 15px;
+ }
+ .beta .tea{
+     right: 4%;
+ }
+ .beta{
+     top: 38px;
+     height: 400px;
+ }
+ /* //banner part end */
+ /* //about part start*/
+ #banner2{
+     padding: 45px 0;
+ }
+ #banner2 .deta .about-details{
+     width: auto;
+ }
+ #banner2 ul li{
+     margin-left: 0;
+ }
+ #banner2 ul{
+     margin-left: 20px;
+ }
+ #banner2 .deta .who{
+     text-align: center;
+ }
+ #banner2 .deta .about{
+     text-align: center;
+     margin-bottom: 10px;
+ }
+ #banner2 .image img{
+     margin-top: 35px;
+ }
+ /* //about part end */
+
+
+ /* //our skills  part start*/
+
+
+ #our-skills .left{
+     display: none;
+ }
+ #our-skills .good{
+     text-align: center;
+ }
+ #our-skills .good h1{
+     margin-bottom: 13px;
+ }
+ #our-skills .right .better .barfiller{
+     width: auto;
+     margin-right: 10px;
+ }
+ #our-skills .right .better .barfiller p{
+     font-size: 13px;
+ }
+ #our-skills .right .better .barfiller .tip{
+    
+     font-size: 15px;
+ }
+ /* our-skills .right .better{
+     width: auto;
+ } */
+ /* //our skills part end */
+
+ 
+ /* //our service part end */
+ #ourservice{
+     padding-top: 15px;
+ }
+ 
+ .t{
+     margin-top: 20px;
+ }
+ #ourservice .left{
+     margin-left: 0px;
+     margin-right: 0px;
+ }
+
+ /* //our service part end */
+
+ /* //our pricing part end */
+ #pricing{
+     margin-top: 40px;
+     height: auto;
+ }
+ #pricing .price{
+     margin-top: 0;
+   transform: scale(.9);
+ }
+ #pricing .slick-current{
+    transform: scale(.9);
+}
+#pricing .price img{
+    margin-top: 12px;
+}
+#pricing .price p{
+    margin-top: 0px;
+    padding-bottom: 10px;
+}
+#pricing .price ul{
+    margin-top: 12px;
+}
+#pricing .price ul li{
+    margin-bottom: 5px;
+}
+ /* //our pricing part end */
+
+
+ /* //our expert team part end */
+ #expart{
+     margin-top: 25px;
+ }
+ 
+ #expart .member{
+     margin-top: 0;
+     height: 340px;
+ }
+ .w .prev{
+     left: 25px;
+ }
+ .w .next{
+     right: -25px;
+     top: 52%;
+ }
+ 
+ #expart .btnn .browse{
+  margin-top: 20px;
+  margin-bottom: 30px;
+
+}
+
+
+ /* //our expert team part end */
+
+ /* //our protfolio part end */
+
+ .x .prev{
+    left: 25px;
+}
+.x .next{
+    right: -25px;
+    top: 52%;
+}
+#protfolio .member{
+    margin-top: 0;
+    height: 340px;
+}
+#protfolio .btnn .browse{
+    margin-top: 20px;
+    margin-bottom: 30px;
+  
+  }
+ /* //our protfolio part end */
+
+
+
+ /* //our protfolio part end */
+
+
+ #testimonial .title{
+    padding-top: 30px;
+ }
+ #testimonial .member{
+     position: relative;
+     margin-left: 0px;
+     margin-right: 0px;
+    padding-top: 99px;
+    padding-bottom: 20px;
+    margin-top: 90px;
+ }
+ #testimonial .member .img{
+     height: 150px;
+     width: 150px;
+     position: absolute;
+     top: -25%;
+     left: 50%;
+     transform: translateX(-50%);
+     overflow: hidden;
+     border-radius: 50%;
+     z-index: 99;
+ }
+ #testimonial .member .text p{
+     width: auto;
+ }
+ #testimonial .prev{
+    top: 22%;
+    left: 1%;
+ }
+ #testimonial .next{
+    top: 24%;
+    right: -8px;
+ }
+ /* //our protfolio part end */
+
+
+ /* //our blog part end */
+
+ #blog .member{
+     margin-top: 0;
+ }
+ 
+ .zee .prev{
+     top: 95%;
+     left: 105px;
+ }
+ .zee .next{
+     top: 96%;
+     right: 70px;
+
+ }
+ #blog .btnn .browse{
+    margin-top: 50px;
+    margin-bottom: 30px;
+  
+  }
+ /* //our blog part end */
+
+
+ /* //our fotter part end */
+
+ #footer{
+     margin-top: 60px;
+    
+ }
+
+ #footer .a p{
+     width: auto;
+ }
+#footer .a{
+    padding-left: 15px;
+padding-right: 15px;
+margin-bottom: 50px;
+}
+#footer .b{
+    padding-left: 15px;
+padding-right: 15px;
+}
+#footer .c{
+    padding-left: 15px;
+padding-right: 15px;
+}
+#footer .d{
+    padding-left: 15px;
+padding-right: 15px;
+}
+#footer .a .icon li a{
+    margin-right: 4px;
+}
+/* #footer .d ul li {
+ 
+    margin-bottom: 0px;
+    margin-right: -4px;
+} */
+ .footer-bottom ul li{
+    padding-right: 2px;
+    }
+ /* //our footer part end */
+
+
+
+
+
+
+}
+
+
+@media (min-width:768px) and (max-width:991px){
+    
+
+
+    /* //header-top part start */
+
+.header-top{
+    font-size: 16px;
+}
+
+ /* //header-top part end */
+
+ /* //navbar part start */
+ nav{
+    padding: 15px!important;
+ }
+
+nav .navbar-brand {
+    padding: 0 !important;
+}
+
+nav ul li .active{
+    padding: 5px 15px !important;
+}
+nav ul li a{
+    padding: 5px 15px !important;
+}
+nav button i{
+    color: rgb(15, 47, 68);
+   
+}
+nav ul{
+    margin-top: 10px;
+    text-align: center;
+    background: rgba(15, 47, 68, 0.1);
+}
+nav ul .nav-item{
+    padding: 10px 0 !important;
+    margin-right: 0px;
+}
+nav .ul{
+    text-align: center;
+    padding-bottom: 20px;
+}
+nav ul .titu {
+    margin-right: 0px;
+}
+.fixed .navbar-brand img{
+    width: 130px;
+}
+.fixed {
+    padding:10px !important;
+}
+.fixed .navbar-brand {
+    padding:  0 !important;
+}
+.fixed .ul{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.fixed ul .nav-item{
+    padding: 10px 0 !important;
+  
+}
+ /* //navbar part end */
+
+ /* //banner part start */
+ #banner{
+     padding: 45px 0;
+ }
+ #banner h1{
+     font-size: 64px;
+ }
+ #banner .our{
+    font-size: 23px;
+ }
+ #banner .details{
+     width: 450px;
+ }
+ #banner a{
+     margin-top: 25px;
+ }
+ .beta input{
+     width: 94%;
+     font-size: 15px;
+ }
+ .beta .tea{
+     right: 4%;
+ }
+ .beta{
+     top: 33px;
+     height: 400px;
+ }
+ /* //banner part end */
+ /* //about part start*/
+ #banner2{
+     padding: 45px 0;
+ }
+ #banner2 .deta .about-details{
+     width: auto;
+ }
+ #banner2 ul li{
+     margin-left: 0;
+ }
+ #banner2 ul{
+     margin-left: 20px;
+ }
+ #banner2 .deta .who{
+     text-align: center;
+ }
+ #banner2 .deta .about{
+     text-align: center;
+     margin-bottom: 10px;
+ }
+ #banner2 .image img{
+     margin-top: 35px;
+ }
+ /* //about part end */
+
+
+ /* //our skills  part start*/
+
+
+ #our-skills .left{
+     display: none;
+ }
+ #our-skills .good{
+     text-align: center;
+ }
+ #our-skills .good h1{
+     margin-bottom: 13px;
+ }
+ #our-skills .right .better .barfiller{
+     width: auto;
+     margin-right: 10px;
+ }
+ #our-skills .right .better .barfiller p{
+     font-size: 13px;
+ }
+ #our-skills .right .better .barfiller .tip{
+    
+     font-size: 15px;
+ }
+ /* our-skills .right .better{
+     width: auto;
+ } */
+ /* //our skills part end */
+
+ 
+ /* //our service part end */
+ 
+ #ourservice .left{
+     margin-left: 0px;
+     margin-right: 0px;
+ }
+
+ /* //our service part end */
+
+ /* //our pricing part end */
+ #pricing{
+    
+     height: auto;
+ }
+ 
+ #pricing .slick-current{
+    transform: scale(.9);
+}
+#pricing .price img{
+    margin-top: 12px;
+}
+#pricing .price p{
+    margin-top: 0px;
+    padding-bottom: 10px;
+}       
+#pricing .price ul{
+    margin-top: 12px;
+}
+#pricing .price ul li{
+    margin-bottom: 5px;
+}
+ /* //our pricing part end */
+
+
+ /* //our expert team part end */
+ 
+ 
+
+ .w .prev{
+     left: 25px;
+ }
+ .w .next{
+     right: -25px;
+     top: 52%;
+ }
+ 
+
+
+ /* //our expert team part end */
+
+ /* //our protfolio part end */
+
+ .x .prev{
+    left: 25px;
+}
+.x .next{
+    right: -25px;
+    top: 52%;
+}
+
+
+ /* //our protfolio part end */
+
+
+
+ /* //our protfolio part end */
+
+
+ 
+ #testimonial .member{
+     position: relative;
+     margin-left: 0px;
+     margin-right: 0px;
+    padding-top: 99px;
+    padding-bottom: 20px;
+    margin-top: 90px;
+ }
+ #testimonial .member .img{
+     height: 150px;
+     width: 150px;
+     position: absolute;
+     top: -25%;
+     left: 50%;
+     transform: translateX(-50%);
+     overflow: hidden;
+     border-radius: 50%;
+     z-index: 99;
+ }
+ #testimonial .member .text p{
+     width: auto;
+ }
+ #testimonial .prev{
+    top: 22%;
+    left: 1%;
+ }
+ #testimonial .next{
+    top: 24%;
+    right: -8px;
+ }
+ /* //our protfolio part end */
+
+
+ /* //our blog part end */
+
+
+ 
+ .zee .prev{
+     top: 95%;
+     left: 105px;
+ }
+ .zee .next{
+     top: 96%;
+     right: 70px;
+
+ }
+
+ /* //our blog part end */
+
+
+ /* //our fotter part end */
+
+
+
+#footer .a p{
+     width: auto;
+ }
+#footer .a{
+    padding-left: 15px;
+padding-right: 15px;
+margin-bottom: 50px;
+}
+#footer .b{
+    padding-left: 15px;
+padding-right: 15px;
+}
+#footer .c{
+    padding-left: 15px;
+padding-right: 15px;
+}
+#footer .d{
+    padding-left: 15px;
+padding-right: 15px;
+}
+ /* //our footer part end */
+
+
+
+
+
+
+}
+
+
+@media (min-width:992px) and (max-width:1199px){
+    
+
+
+
+ /* //navbar part start */
+ 
+
+nav .navbar-brand {
+    padding: 0 !important;
+}
+
+nav ul li .active{
+    padding: 32px 13px !important;
+   
+}
+nav ul li a{
+    padding: 32px 13px !important;
+}
+nav button i{
+    color: rgb(15, 47, 68);
+   
+}
+
+nav ul .nav-item {
+   margin-right: 0px !important;
+}
+
+nav ul .titu {
+    margin-right: 15px !important;
+}
+.fixed .navbar-brand img{
+    width: 130px;
+}
+
+.fixed {
+    padding:1px !important;
+}
+.fixed .navbar-brand {
+    padding:  0 !important;
+}
+.fixed .ul{
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+
+
+ /* //navbar part end */
+
+
+ /* //our skill part end */
+ #our-skills .left img {
+    height: 405px;
+    position: absolute;
+    top:15%;
+    left: -28%;
+    transform: translateX(20%);
+}
+
+ /* //our skill part end */
+ /* //testimonial part end */
+ #testimonial .member{
+    position: relative;
+   
+   padding-top: 99px;
+   padding-bottom: 20px;
+   margin-top: 90px;
+}
+#testimonial .member .img{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: -25%;
+    left: 50%;
+    transform: translateX(-50%);
+    overflow: hidden;
+    border-radius: 50%;
+    z-index: 99;
+}
+#testimonial .member .text p{
+    width: auto;
+}
+#testimonial .prev{
+   top: 22%;
+   left: 1%;
+}
+#testimonial .next{
+   top: 24%;
+   right: -8px;
+}
+
+
+ /* //testimonial part end */
+
+ 
+
+ /* //our fotter part end */
+
+
+
+ #footer .a .icon li a{
+  margin-right: 0;
+ }
+ #footer .a p{
+     width: 225px;
+ }
+ /* //our footer part end */
+
+
+
+
+
+
+}
