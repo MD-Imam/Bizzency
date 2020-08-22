@@ -126,7 +126,16 @@ nav .ul .aler i:hover{
     padding: 0;
     background: #fff;
     border-bottom: 1px solid #d6d6d6;  
+    animation:mymove .8s ease-in-out;
 }
+@keyframes mymove {
+    from {
+        top: -65px;
+    }
+    to {
+        top:0px;
+    }
+  }
 .fixed .navbar-brand{
     background: transparent;
     text-align: center;

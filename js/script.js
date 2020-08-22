@@ -4,7 +4,7 @@
 $(window).scroll(function(){
   var scrollamount = $(window).scrollTop()
   
-  if(scrollamount > 400){
+  if(scrollamount > 0){
     $(".menu").addClass("fixed")
   }else{
     $(".menu").removeClass("fixed")
